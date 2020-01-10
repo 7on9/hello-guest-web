@@ -1,0 +1,63 @@
+.sidebar .nav-item .nav-link .img-profile, .topbar .nav-item .nav-link .img-profile{
+  height: 3rem;
+  width: 3rem;
+}
+.sidebar .nav-item .nav-link .img-profile, .topbar .nav-item .nav-link {
+  font-size: 1.5rem;
+  font-family: Nunito,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.sidebar {
+  width: 18.5rem!important;
+}
+
+.sidebar .sidebar-brand .sidebar-brand-text {
+  font-size: 1.5rem;
+  font-family: Nunito,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.dropdown-item{
+  font-size: 1.5rem;
+  font-family: Nunito,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.sidebar .nav-item .nav-link {
+  width: 18.5rem;
+}
+
+.sidebar .nav-item .nav-link i {
+  font-size: 1.25rem
+}
+
+.sidebar .nav-item .nav-link span {
+  font-size: 1.25rem
+}
+
+.sidebar .sidebar-brand {
+  height: 5rem;
+}
+
+.form-control {
+  font-size: 1.25rem
+}
+
+.react-datepicker {
+  font-size: 1.25rem
+}
+
+body{
+  font-size: 1.25rem
+}
+
+.f-sm{
+  font-size: 1.25rem
+}
+
+.f-md{
+  font-size: 2rem
+}
+
+.f-lg{
+  font-size: 2.5rem
+}
+
